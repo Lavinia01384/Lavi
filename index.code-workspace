@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/pasta de pietro/index/index/index"
+		},
+		{
+			"path": "D:/pasta de pietro/trabalho de fdi"
+		},
+		{
+			"path": "D:/pasta de pietro/trabalho de web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "trabalho de web"
+	}
+}
