@@ -1,0 +1,14 @@
+h1{
+color: red;
+}
+
+p{
+    width: 400px;
+    height: 600px;
+}
+
+input[type = "text"]{
+    width: 100px;
+    height: 20px;
+    color: white;
+}
